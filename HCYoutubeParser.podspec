@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.license      = 'Public Domain'
 
   s.ios.deployment_target = '7.0'
-  s.tvos.deployment_target = '9.0'
+  # s.tvos.deployment_target = '9.0'
 
   s.author       = "hellozimi"
   s.summary      = "Retrieves the iOS compatible video URL from YouTube."
